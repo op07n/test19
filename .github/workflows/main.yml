@@ -27,4 +27,4 @@ jobs:
       - uses: actions/upload-artifact@v1
         with:
           name: artifact
-          path: ./TimeJoob/bin/Debug
+          path: ./TimeJob/bin/Debug
